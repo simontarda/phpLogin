@@ -1,0 +1,15 @@
+.form{
+    border: 1px solid #D3D3D3;
+    text-align: center;
+    width: 200px;
+}
+.success{
+    background: none repeat scroll 0 0 #90EE90;
+    width: 200px;
+    border: 1px solid darkgreen ;
+}
+.failure{
+    background: none repeat scroll 0 0 #E56255 ;
+    width: 200px;
+    border: 1px solid red ;
+}
